@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Daniel and working mostly on iOS development and things related to my degree program. 
+
+And I have a blog [blog](https://dantersec.com)about different topics.
+
+
 <!--
 **danter-byte/danter-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
