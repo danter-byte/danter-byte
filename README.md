@@ -2,7 +2,7 @@
 
 I'm Daniel and working mostly on iOS development and things related to my degree program. 
 
-And I have a blog [blog](https://dantersec.com)about different topics.
+And I have a blog [blog](https://dantersec.com) about different topics.
 
 
 <!--
